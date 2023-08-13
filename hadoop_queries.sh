@@ -1,5 +1,3 @@
-<pre>
-```
 hadoop/sbin/start-all.sh
 
 7264 Jps
@@ -23,5 +21,3 @@ hadoop fs -rm -r /filename
 hadoop fs -copyToLocal /hdfs/path /local/path
 
 hadoop/sbin/stop-all.sh
-```
-</pre>
