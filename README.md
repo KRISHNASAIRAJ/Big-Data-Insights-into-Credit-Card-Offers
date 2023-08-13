@@ -17,3 +17,6 @@ Tableau takes center stage in this project, as it transforms raw data into compe
 The collaborative synergy between big data analytics and Tableau's visualization prowess culminates in actionable insights that banks can leverage to enhance their credit card marketing strategies. The project's visualizations offer banks a comprehensive view of offer utilizations, customer preferences, and correlations, enabling them to tailor their offers effectively and drive customer engagement.
 
 "Big Data Insights into Credit Card Offers: Unveiling Trends through Tableau" not only offers a comprehensive understanding of credit card offer dynamics but also showcases the potential of integrating cutting-edge technologies to drive data-centric decision-making. This project's outcomes have the potential to revolutionize credit card marketing strategies, ultimately resulting in improved customer satisfaction and optimized business outcomes.
+
+This project dissects a synthetically generated dataset, showcasing how big data technologies and interactive visualization can optimize business decisions.
+Dataset Link: https://www.kaggle.com/datasets/krishnasairaj/credit-card-offer-analysis
